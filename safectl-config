@@ -1,0 +1,4 @@
+export LOADTEST=false
+export SINGLEPIPELINE=true
+export MULTIPIPELINE=false
+export SAFECTLENV=<safectl.env>
